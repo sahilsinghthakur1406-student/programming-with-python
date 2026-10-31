@@ -1,0 +1,1 @@
+"""Application entities and data-processing components."""
